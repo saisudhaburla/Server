@@ -1,0 +1,5 @@
+mvn archetype:generate \
+      -DgroupId=nz.ac.vuw.swen301.assignment3.server \
+      -DartifactId=assignment3-server \
+      -DarchetypeArtifactId=maven-archetype-webapp \
+      -DinteractiveMode=false
